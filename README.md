@@ -1,4 +1,4 @@
-# Soccer-Match-Prediction-Machine-V1
+# Soccer-Match-Prediction-Model-V1
 
 I created a machine learning model to predict the outcomes for Manchester United home matches. To predict the outcome for each game, I used the data from 149 Manchester United home games from 2008-2016 to train a multinomial logistic regression classifier.
 
